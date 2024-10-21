@@ -13,4 +13,4 @@ Welcome to my project repository! This repository contains various components re
 ### JSON Data Files
 - **brands.json, receipts.json, users.json**: These json files contains information relevant to the project. It serves as a reference for understanding the brand data.
 
-##Thanks for the review. Have a great day! :)
+## Thanks for the review. Have a great day! :)
